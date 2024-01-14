@@ -1,0 +1,177 @@
+﻿extraSprites:
+  - type: Flag0
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/2nd_German_Empire.png
+  - type: Flag1
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/6th_Republic_of_Francia.png
+  - type: Flag2
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/Andean_Empire.png
+  - type: Flag3
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/Antilles_Alliance.png
+  - type: Flag4
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/Arabian_Bloc.png
+  - type: Flag5
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/Atlantic_States_of_America.png
+  - type: Flag6
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/Atzlan_Protectorate.png
+  - type: Flag7
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/Baltic_Commonwealth.png
+  - type: Flag8
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/Brazilian_Union.png
+  - type: Flag9
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/Californian_People_Republic.png
+  - type: Flag10
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/Cascadian_Free_States.png
+  - type: Flag11
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/Central_American_Confederacy.png
+  - type: Flag12
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/Chinese_Republic.png
+  - type: Flag13
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/Confederate_States_of_Dixieland.png
+  - type: Flag14
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/Dominion_of_Aoteroa.png
+  - type: Flag15
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/Egyptian_Cartel.png
+  - type: Flag16
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/Empire_of_Abyssinia.png
+  - type: Flag17
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/Federal_Republic_of_Indo-Malaya.png
+  - type: Flag18
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/Greater_Gran_Colombia.png
+  - type: Flag19
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/Iberian_Union.png
+  - type: Flag20
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/Icelandic_Union.png
+  - type: Flag21
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/Indian_Coalition.png
+  - type: Flag22
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/Islamic_Empire_of_Maghreb.png
+  - type: Flag23
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/Korean_United_Republic.png
+  - type: Flag24
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/Kunieda_Shogunate_of_Japan.png
+  - type: Flag25
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/League_of_Tagalogia.png
+  - type: Flag26
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/Levantine_Republic.png
+  - type: Flag27
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/New_Roman_Republic.png
+  - type: Flag28
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/Patagonian_Socialist_Republic.png
+  - type: Flag29
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/People_Republic_of_Alaska.png
+  - type: Flag30
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/Persian_Empire.png
+  - type: Flag31
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/Quebecian_Republic_of_Canada.png
+  - type: Flag32
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/Republic_of_Australia.png
+  - type: Flag33
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/Russian_Republic.png
+  - type: Flag34
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/Scandanavian_League.png
+  - type: Flag35
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/Socialist_Union_Of_Turkestan.png
+  - type: Flag36
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/South_African_Federation.png
+  - type: Flag37
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/Swahili_Commune.png
+  - type: Flag38
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/Syndicalist_Union_of_Britain.png
+  - type: Flag39
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/Transcaucasian_Union.png
+  - type: Flag40
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/Ultravisionary_Kamchatka.png
+  - type: Flag41
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/Union_of_Holy_Siam.png
+  - type: Flag42
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/United_Balkan_Federation.png
+  - type: Flag43
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/Gold_Coast.png
