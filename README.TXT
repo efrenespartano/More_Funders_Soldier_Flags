@@ -1,5 +1,5 @@
 #OpenXcom Nationalities Expanded Mod v1.0
-#Authors: B1ackwolf based on the works previously made by Solarius Scorch
+#Authors: B1ackwolf, efrenespartano & Czechball, based on the works previously made by Solarius Scorch
 
 This mod requires OXCE to work
 
@@ -30,3 +30,5 @@ Credits go to:
 		- for making the features possible
     EfrenSpartano:
 	    - For the idea, suggestion and support of making it an standalone MOD.
+	Ostrich-Hungry
+	  - Quebec and California name lists 
