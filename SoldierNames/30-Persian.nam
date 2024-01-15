@@ -1,6 +1,5 @@
 ﻿country: STR_PERSIA
 region: STR_INDIAN_OCEAN
-globalWeight: 15
 lookWeights:
   - 5
   - 20

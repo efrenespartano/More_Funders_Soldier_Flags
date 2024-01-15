@@ -1,6 +1,5 @@
 ﻿country: STR_ANDEAN_EMPIRE
 region: STR_SOUTH_PACIFIC
-globalWeight: 20
 lookWeights:
   - 10
   - 10

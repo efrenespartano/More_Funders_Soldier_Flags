@@ -1,6 +1,5 @@
 country: STR_KUNIEDA_SHOGUNATE
 region: STR_NORTH_PACIFIC
-globalWeight: 30
 lookWeights:
   - 2
   - 3

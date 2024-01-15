@@ -3,7 +3,6 @@
 # they somehow appears too frequently
 country: STR_KOREA
 region: STR_SOUTH_CHINA_SEA
-globalWeight: 30
 lookWeights:
   - 3
   - 2

@@ -1,6 +1,5 @@
 country: STR_NEW_ROME
 region: STR_MEDITERRANEAN
-globalWeight: 30
 lookWeights:
   - 47
   - 50

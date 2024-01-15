@@ -1,6 +1,5 @@
 country: STR_HOLY_SIAM
 region: STR_INDIAN_OCEAN
-globalWeight: 55
 lookWeights:
   - 0
   - 5

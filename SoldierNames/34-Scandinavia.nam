@@ -1,6 +1,5 @@
 country: STR_SCANDINAVIA
 region: STR_ARCTIC
-globalWeight: 30
 lookWeights:
   - 69
   - 29

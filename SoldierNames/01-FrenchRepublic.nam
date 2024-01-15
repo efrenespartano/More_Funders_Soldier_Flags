@@ -1,6 +1,5 @@
 country: STR_FRANCIA
 region: STR_MEDITERRANEAN
-globalWeight: 40
 lookWeights:
   - 43
   - 42

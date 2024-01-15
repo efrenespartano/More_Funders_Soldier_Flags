@@ -1,6 +1,5 @@
 country: STR_DIXIELAND
 region: STR_CARRIBEAN
-globalWeight: 30
 lookWeights:
   - 30
   - 35

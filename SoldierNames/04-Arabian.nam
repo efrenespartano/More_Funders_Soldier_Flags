@@ -1,6 +1,5 @@
 country: STR_ARABIAN_BLOC
 region: STR_INDIAN_OCEAN
-globalWeight: 20
 lookWeights:
   - 0
   - 1

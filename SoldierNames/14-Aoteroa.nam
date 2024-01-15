@@ -5,7 +5,6 @@
 # ethnic: Chan
 country: STR_AOTEROA
 region: STR_SOUTH_PACIFIC
-globalWeight: 20
 lookWeights:
   - 35
   - 35

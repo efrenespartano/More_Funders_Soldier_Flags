@@ -1,6 +1,5 @@
 country: STR_GOLD_COAST
 region: STR_SOUTH_ATLANTIC
-globalWeight: 20
 lookWeights:
   - 0
   - 1

@@ -1,7 +1,6 @@
 ﻿#Brazil ethnic division roughly: 40% whites, 40% Mulatos/morenos/pardos/criollos/mestizos, 20% Negros y otros
 country: STR_BRAZILIAN_UNION
 region: STR_SOUTH_ATLANTIC
-globalWeight: 30
 lookWeights:
   - 20
   - 20

@@ -1,6 +1,5 @@
 country: STR_ATZLAN
 region: STR_CARRIBEAN
-globalWeight: 20
 lookWeights:
   - 15
   - 35
