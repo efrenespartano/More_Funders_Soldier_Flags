@@ -1,2 +1,2 @@
-hireByCountryOdds: 80    # default 0
-hireByRegionOdds: 50     # default 0
+hireByCountryOdds: 70    # default 0
+hireByRegionOdds: 30     # default 0

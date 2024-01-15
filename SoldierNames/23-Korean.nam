@@ -2,7 +2,7 @@
 # thus why there are some americans surnames, still i consider the ammount of names way too high to reflect that 5%, i might tweak it further and trim those to a third of the current ammount if 
 # they somehow appears too frequently
 country: STR_KOREA
-region: STR_SOUTH_CHINA_SEA
+region: STR_THE_EAST_SEA
 lookWeights:
   - 3
   - 2
