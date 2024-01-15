@@ -1,3 +1,6 @@
+country: STR_ICELANDIC_UNION
+region: STR_ARCTIC
+globalWeight: 15
 lookWeights:
   - 70
   - 25

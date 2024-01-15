@@ -1,4 +1,7 @@
-﻿lookWeights:
+﻿country: STR_LEVANT
+region: STR_MEDITERRANEAN
+globalWeight: 30
+lookWeights:
   - 20
   - 35
   - 40

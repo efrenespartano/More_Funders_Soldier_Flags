@@ -1,3 +1,6 @@
+country: STR_CASCADIA
+region: STR_NORTH_PACIFIC
+globalWeight: 30
 lookWeights:
   - 30
   - 35

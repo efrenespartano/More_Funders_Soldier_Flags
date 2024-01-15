@@ -1,4 +1,8 @@
+
 #lithuanian surnames have suffixes based on gender and MARITAL STATUS on females, ending in "té" if unmarried ... and "ené" if married
+country: STR_BALTIC_COMMONWEALTH
+region: STR_NORTH_SEA
+globalWeight: 30
 lookWeights:
   - 10
   - 85

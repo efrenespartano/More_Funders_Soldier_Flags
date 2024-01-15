@@ -1,4 +1,7 @@
-﻿lookWeights:
+﻿country: STR_QUEBEC
+region: STR_NORTH_ATLANTIC
+globalWeight: 35
+lookWeights:
   - 35
   - 50
   - 10

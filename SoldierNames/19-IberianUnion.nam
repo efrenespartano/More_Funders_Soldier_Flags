@@ -1,3 +1,6 @@
+country: STR_IBERIA
+region: STR_NORTH_ATLANTIC
+globalWeight: 25
 lookWeights:
   - 5
   - 80

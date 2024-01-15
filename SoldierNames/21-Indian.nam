@@ -1,3 +1,6 @@
+country: STR_INDIAN_COALITION
+region: STR_INDIAN_OCEAN
+globalWeight: 30
 lookWeights:
   - 1
   - 1

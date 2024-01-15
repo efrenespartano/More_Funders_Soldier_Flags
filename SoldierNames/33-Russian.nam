@@ -1,4 +1,7 @@
-﻿lookWeights:
+﻿country: STR_RUSSIA
+region: STR_EURASIA
+globalWeight: 50
+lookWeights:
   - 35
   - 45
   - 19

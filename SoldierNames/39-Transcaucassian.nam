@@ -1,3 +1,6 @@
+country: STR_TRANSCAUCASIA
+region: STR_EURASIA
+globalWeight: 20
 lookWeights:
   - 30
   - 45

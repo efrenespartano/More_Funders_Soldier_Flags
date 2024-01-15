@@ -1,3 +1,6 @@
+country: STR_BALKAN_FEDERATION
+region: STR_MEDITERRANEAN
+globalWeight: 35
 lookWeights:
   - 10
   - 70

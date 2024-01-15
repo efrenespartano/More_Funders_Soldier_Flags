@@ -1,4 +1,7 @@
 # Note: "first" names here are family names, "last" names are given names. Technically chinese names are relatively unisex and uses a quite interesting yet intrinisically complex meaning system to catalogue the gender of it.....therefore i copied and duplicate the name list for both genders
+country: STR_CHINA
+region: STR_SOUTH_CHINA_SEA
+globalWeight: 40
 lookWeights:
   - 0
   - 1

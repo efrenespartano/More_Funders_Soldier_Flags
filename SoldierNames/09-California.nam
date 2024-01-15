@@ -1,6 +1,6 @@
-country: STR_USA
-region: STR_NORTH_AMERICA
-globalWeight: 4000
+country: STR_CALIFORNIAN_REPUBLIC
+region: STR_NORTH_PACIFIC
+globalWeight: 40
 lookWeights:
   - 10
   - 10

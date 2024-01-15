@@ -1,3 +1,6 @@
+country: STR_TURKESTAN
+region: STR_EURASIA
+globalWeight: 15
 lookWeights:
   - 10
   - 40

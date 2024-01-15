@@ -1,4 +1,7 @@
-﻿lookWeights:
+﻿country: STR_AUSTRALIA
+region: STR_SOUTH_PACIFIC
+globalWeight: 30
+lookWeights:
   - 20
   - 60
   - 15

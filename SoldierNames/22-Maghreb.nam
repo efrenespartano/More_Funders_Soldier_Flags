@@ -1,4 +1,7 @@
-﻿lookWeights:
+﻿country: STR_MAGHREB
+region: STR_MEDITERRANEAN
+globalWeight: 15
+lookWeights:
   - 3
   - 10
   - 85

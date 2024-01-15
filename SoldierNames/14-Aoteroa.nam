@@ -3,9 +3,9 @@
 # removed: Singh - Huang - Cheng - Tang - Tan - Kaur - Wang - Wong
 # 105	Ron
 # ethnic: Chan
-country: STR_NEW_ZEALAND
-region: STR_AUSTRALASIA
-globalWeight: 9000
+country: STR_AOTEROA
+region: STR_SOUTH_PACIFIC
+globalWeight: 20
 lookWeights:
   - 35
   - 35

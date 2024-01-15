@@ -1,3 +1,6 @@
+country: STR_ALASKA
+region: STR_ARCTIC
+globalWeight: 20
 lookWeights:
   - 30
   - 35

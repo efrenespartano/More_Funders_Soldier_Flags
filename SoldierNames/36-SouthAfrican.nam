@@ -1,3 +1,6 @@
+country: STR_SOUTH_AFRICA
+region: STR_SOUTH_ATLANTIC
+globalWeight: 45
 lookWeights:
   - 10
   - 10

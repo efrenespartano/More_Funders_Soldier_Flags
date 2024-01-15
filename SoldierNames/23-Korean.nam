@@ -1,6 +1,9 @@
 # note: According to recent census, inmmigrants compound around 5~ish% of total population, a lot being "G.I's Babies" (sons and daughters of marines and american soldiers from the war and stationed there).
 # thus why there are some americans surnames, still i consider the ammount of names way too high to reflect that 5%, i might tweak it further and trim those to a third of the current ammount if 
 # they somehow appears too frequently
+country: STR_KOREA
+region: STR_SOUTH_CHINA_SEA
+globalWeight: 30
 lookWeights:
   - 3
   - 2

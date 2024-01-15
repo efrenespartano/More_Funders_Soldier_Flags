@@ -1,3 +1,6 @@
+country: STR_ATLANTIC_STATES
+region: STR_NORTH_ATLANTIC
+globalWeight: 60
 lookWeights:
   - 30
   - 35

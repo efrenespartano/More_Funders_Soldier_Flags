@@ -1,4 +1,7 @@
-﻿lookWeights:
+﻿country: STR_PATAGONIA
+region: STR_SOUTH_ATLANTIC
+globalWeight: 30
+lookWeights:
   - 30
   - 40
   - 20

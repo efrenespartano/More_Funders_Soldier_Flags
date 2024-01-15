@@ -1,4 +1,7 @@
-﻿lookWeights:
+﻿country: STR_CENTRAL_AMERICA
+region: STR_CARRIBEAN
+globalWeight: 40
+lookWeights:
   - 3
   - 10
   - 80

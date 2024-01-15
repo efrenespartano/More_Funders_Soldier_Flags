@@ -1,4 +1,7 @@
-﻿lookWeights:
+﻿country: STR_GRAN_COLOMBIA
+region: STR_SOUTH_ATLANTIC
+globalWeight: 20
+lookWeights:
   - 10
   - 20
   - 50

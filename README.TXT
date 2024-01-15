@@ -29,7 +29,9 @@ Credits go to:
     Czechball:
 	    - Original compilation of TFTD alternate flags
     efrenespartano:
-	    - For the idea, suggestion and support of making it an standalone MOD.
+	    - Code and sprites compilation and adaption into OXC format
+	Ohartenstein23:
+		- New Roman name list from 40k mod
 	Ostrich-Hungry
 	  - Quebec, New Zealand and California name lists, from his XCom Files name 
 	Meridian, Yankes

@@ -1,3 +1,6 @@
+country: STR_GERMAN_REICH
+region: STR_NORTH_SEA
+globalWeight: 40
 lookWeights:
   - 60
   - 33

@@ -1,3 +1,6 @@
+country: STR_SWAHILI_COMMUNE
+region: STR_INDIAN_OCEAN
+globalWeight: 15
 lookWeights:
   - 0
   - 0

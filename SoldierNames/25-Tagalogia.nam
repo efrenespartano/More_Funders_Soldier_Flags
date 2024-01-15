@@ -1,4 +1,7 @@
-﻿lookWeights:
+﻿country: STR_TAGALOGIA
+region: STR_SOUTH_CHINA_SEA
+globalWeight: 20
+lookWeights:
   - 0
   - 5
   - 85

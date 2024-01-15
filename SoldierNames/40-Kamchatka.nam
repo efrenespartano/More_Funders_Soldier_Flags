@@ -1,4 +1,7 @@
-﻿lookWeights:
+﻿country: STR_KAMCHATKA
+region: STR_ARCTIC
+globalWeight: 15
+lookWeights:
   - 35
   - 45
   - 19

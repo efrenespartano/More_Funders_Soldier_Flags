@@ -1,3 +1,6 @@
+country: STR_EGYPTIAN_CARTEL
+region: STR_MEDITERRANEAN
+globalWeight: 30
 lookWeights:
   - 0
   - 3
