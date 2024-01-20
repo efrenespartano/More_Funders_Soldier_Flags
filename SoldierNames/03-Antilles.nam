@@ -1,5 +1,5 @@
-country: STR_ANDEAN_EMPIRE
-region: STR_SOUTH_PACIFIC
+country: STR_ANTILLES_ALLIANCE
+region: STR_CARRIBEAN
 lookWeights:
   - 5
   - 30
