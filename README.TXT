@@ -6,7 +6,6 @@ This mod requires OXCE to work
 README for Version 1.0
 
 The general idea of the mod is to implement the flags on name and extra nationalities namelist into a flexible and compatible format, so it can be integrated unto others mods with ease, or used in a vainilla run, yet retaining the fluff of having your soldiers showing their national colors.  
-The work is based on Solarius Scorch FMP and XFILES, at first i expanded the names for personal use but i figured some others might wish to use it.
 
 Features: 
 
@@ -21,14 +20,16 @@ In order to use it all you need to do its simply drop the mod in your folder and
 #    soldierNames:
 #      - delete
 #      - SoldierNames/ 
+
 CREDITS:
+
 Credits go to:
 	
 	B1ackwolf
-		- Many of the name lists from his Expanded Nationalities mod, plus support and ideas
-    Czechball:
+ 		- Many of the name lists from his Expanded Nationalities mod, plus support and ideas
+	Czechball:
 	    - Original compilation of TFTD alternate flags
-    efrenespartano:
+	efrenespartano:
 	    - Code and sprites compilation and adaption into OXC format
 	Ohartenstein23:
 		- New Roman name list from 40k mod
@@ -38,3 +39,10 @@ Credits go to:
 		- for making the features possible
 	Solarius Scorch:
 		- for the Initial Mod ideas and basis for the work
+
+CHANGELOG
+
+1.0 January 20th, 2024
+* Initial release
+* 42 flags by Czechball
+* 42 name lists by B1ackwolf, Ostrich-Hungry & Ohartenstein23 
