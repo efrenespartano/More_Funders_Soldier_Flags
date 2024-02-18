@@ -50,7 +50,7 @@
   - type: Flag12
     singleImage: true
     files:
-      0: Resources/TFTD_Flags/Chinese_Republic.png
+      0: Resources/TFTD_Flags/Democratic_Peoples_Republic_of_China.png
   - type: Flag13
     singleImage: true
     files:
@@ -166,7 +166,7 @@
   - type: Flag41
     singleImage: true
     files:
-      0: Resources/TFTD_Flags/Union_of_Holy_Siam.png
+      0: Resources/TFTD_Flags/Holy_Kindgom_of_Siam.png
   - type: Flag42
     singleImage: true
     files:
@@ -175,3 +175,32 @@
     singleImage: true
     files:
       0: Resources/TFTD_Flags/Gold_Coast.png
+  - type: Flag44
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/Askal_Corporation.png
+  - type: Flag45
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/Cantonese_Republic.png
+  - type: Flag46
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/Dutch_Provinces.png
+  - type: Flag47
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/Free_Republic_of_Dai_Viet.png
+  - type: Flag48
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/State_of_Manchuria.png
+  - type: Flag49
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/United_Duchies_of_Kampuchea.png
+  - type: Flag50
+    singleImage: true
+    files:
+      0: Resources/TFTD_Flags/Melanesian_Socialist_Republic.png	  
+	  

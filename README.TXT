@@ -9,8 +9,8 @@ The general idea of the mod is to implement the flags on name and extra national
 
 Features: 
 
->> 42 new flags by Czechball, a new world order demands new flags
->> 42 name lists written by B1ackwolf and Ostrich-Hungry
+>> 50 new flags by Czechball, a new world order demands new flags
+>> 50 name lists written by B1ackwolf and Ostrich-Hungry
 > Several name lists are mix of the national lists of the former territories within the conglomerates (i.e. Swedish, Finnish and Norwegian names in Scandinavia) or have additional first names from neighboring regions (i.e. People's Republic of Alaska has Russian first names but American surnames)
 
 In order to use it all you need to do its simply drop the mod in your folder and activate it via menu, in case you wish to integrate it to your mods new types of units, just copy and paste these parameters on every unit to have the name list apply to your units:
@@ -41,6 +41,10 @@ Credits go to:
 		- for the Initial Mod ideas and basis for the work
 
 CHANGELOG
+
+2.0 February 18th, 2024
+* Updated flags to match More Funders v1.5
+* 9 New flags (by Czechball, adapted by efrenespartano) and name lists (by B1ackwolf)
 
 1.0 January 20th, 2024
 * Initial release
